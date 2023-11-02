@@ -1,0 +1,27 @@
+.container {
+    border: 1px solid #ccc;
+    padding: 100px;
+    margin: 10px;
+    text-align: center;
+    background-color: lightblue;
+  }
+  
+  .color-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .color-item {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    cursor: pointer;
+  }
+
+  .inner-container {
+    border: 1px solid #ccc;
+    padding: 100px;
+    margin: 10px;
+    text-align: center;
+  }
+  
